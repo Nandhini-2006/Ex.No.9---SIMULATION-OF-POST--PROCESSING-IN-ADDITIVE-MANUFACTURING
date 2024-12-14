@@ -34,21 +34,25 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-14 091338](https://github.com/user-attachments/assets/37da44a2-e92d-4be5-b65f-dda9d0ae3286)
+
+![2 1](https://github.com/user-attachments/assets/7fb73a6a-5c49-431e-b301-886384c5ab77)
+![2 2](https://github.com/user-attachments/assets/bd9911d5-54f7-4005-b8ac-fa9893898f06)
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-14 091435](https://github.com/user-attachments/assets/f388bca3-4ee6-447d-a587-50359364e0d2)
+
+![2 3](https://github.com/user-attachments/assets/e2204ce1-c1b4-492f-9a95-fe3aa4f331b0)
+![2 4](https://github.com/user-attachments/assets/d19d304e-11a8-46bc-bfee-cfdd07b9b6b2)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-14 091544](https://github.com/user-attachments/assets/b5a86b20-90d6-481b-b0e5-3e2a5ad53b0a)
 
-## Output:
+![2 5](https://github.com/user-attachments/assets/adf75c68-4a01-48a2-836b-80daba6e1f35)
+![2 6](https://github.com/user-attachments/assets/be123892-4c17-4507-86bd-5ea4ef2aea3b)
 
-### Name:
-### Register Number:
+### Name: NANDHINI N
+### Register Number: 24002003
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
